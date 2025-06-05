@@ -132,7 +132,7 @@ class TitleBar(QWidget):
             "Kolase PDF Generator\n\n"
             "Dibuat oleh COREX\n"
             "by Nur Dwi Priyambodo\n\n"
-            "© 2024 All rights reserved"
+            "© 2025 All rights reserved"
         )
 
 class KolasePDFGui(QMainWindow):

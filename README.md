@@ -112,7 +112,7 @@ The application includes error handling for:
 
 Created by COREX
 by Nur Dwi Priyambodo
-© 2024 All rights reserved
+© 2025 All rights reserved
 
 ## License
 
